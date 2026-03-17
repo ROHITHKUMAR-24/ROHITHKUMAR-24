@@ -3,7 +3,7 @@
 Pursing Artificial Intelligence and Data science @ Sri sairam Engineering college
 <img align="right" width="370" height="290" src="https://www.dasca.org/content/Images/main/insights-era.gif">
 - 🔭 Here's my [portfolio]( https://rohithkumar-24.github.io/portfolio/)                                                 
-- 🌱 I’m currently learning 3nd year 
+- 🌱 I’m currently learning 3rd year 
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/mr__r_o_h_i_t_h_24/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rohith-kumar-r-33a603292)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/yuvanesh.rohith.9?mibextid=ZbWKwL)
