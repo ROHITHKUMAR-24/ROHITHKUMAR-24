@@ -11,16 +11,43 @@ Pursing Artificial Intelligence and Data science @ Sri sairam Engineering colleg
 
 
 ### I code in 📚
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
-<img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/r--v1.png" alt="r--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/database--v1.png" alt="database--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/artificial-intelligence--v1.png" alt="artificial-intelligence--v1"/>
-<img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-science-big-data-flaticons-lineal-color-flat-icons.png" alt="external-data-science-big-data-flaticons-lineal-color-flat-icons"/>
+<table>
+<tr>
+<td align="center" width="100">
+  <img src="https://img.icons8.com/color/48/python.png" width="48" height="48"/><br><b>Python</b>
+</td>
+<td align="center" width="100">
+  <img src="https://img.icons8.com/color/48/c-programming.png" width="48" height="48"/><br><b>C</b>
+</td>
+<td align="center" width="100">
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" width="48" height="48"/><br><b>HTML</b>
+</td>
+<td align="center" width="100">
+  <img src="https://img.icons8.com/color/48/css3.png" width="48" height="48"/><br><b>CSS</b>
+</td>
+<td align="center" width="100">
+  <img src="https://img.icons8.com/color/48/javascript.png" width="48" height="48"/><br><b>JS</b>
+</td>
+</tr>
 
+<tr>
+<td align="center" width="100">
+  <img src="https://img.icons8.com/fluency/48/database.png" width="48" height="48"/><br><b>DB</b>
+</td>
+<td align="center" width="100">
+  <img src="https://img.icons8.com/color/48/react-native.png" width="48" height="48"/><br><b>React</b>
+</td>
+<td align="center" width="100">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="48" height="48"/><br><b>Java</b>
+</td>
+<td align="center" width="100">
+  <img src="https://img.icons8.com/color/48/nodejs.png" width="48" height="48"/><br><b>Node.js</b>
+</td>
+<td align="center" width="100">
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-algorithm-coding-and-development-flat-flat-juicy-fish.png" width="48" height="48"/><br><b>DSA</b>
+</td>
+</tr>
+</table>
 
 ## GitHub stats 📫
 
