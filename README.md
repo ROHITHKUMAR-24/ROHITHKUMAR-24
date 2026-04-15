@@ -1,7 +1,7 @@
 ## Hi👋 I'm Rohith kumar
 
 Pursing Artificial Intelligence and Data science @ Sri sairam Engineering college
-<img align="right" width="370" height="290" src="https://www.dasca.org/content/Images/main/insights-era.gif">
+<img align="right" width="350" height="290" src="https://www.dasca.org/content/Images/main/insights-era.gif">
 - 🔭 Here's my [portfolio]( https://rohithkumar-24.github.io/portfolio/)                                                 
 - 🌱 I’m currently learning 3rd year 
 - 📫 How to reach me :
